@@ -6,6 +6,6 @@ Bike_Share_Analysis.ipynb
 
 ### Dependency:
 Need to have following three files in the data/ folder:
-* 1. Washington-CapitalBikeshare-2016.csv
-* 2. Chicago-Divvy-2016.csv
-* 3. NYC-CitiBike-2016.csv
+* Washington-CapitalBikeshare-2016.csv
+* Chicago-Divvy-2016.csv
+* NYC-CitiBike-2016.csv
